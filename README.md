@@ -3,9 +3,9 @@
 Welcome to my GitHub! I'm a data enthusiast with a passion for converting raw data into actionable insights and building smart solutions using machine learning and AI. I enjoy working on projects that solve real-world problems and continuously strive to improve my skills and knowledge.
 
 ## 🚀 What I Do:
-- **Machine Learning**: Developing models to detect anomalies and optimize predictions.
+- **Machine Learning**: Developing models to detect anomalies and optimise predictions.
 - **Data Analysis**: Extracting meaningful insights from large datasets using Python, SQL, and Power BI.
-- **Dashboards & Visualisations**: Creating interactive dashboards and visualizations to showcase data trends.
+- **Dashboards & Visualisations**: Creating interactive dashboards and visualisations to showcase data trends.
 
 ## 🔭 Projects:
 1. **Data Warehouse and Analytics Project Using SQL** | [GitRepo](https://github.com/colinlee7743/SQL-Data-Warehouse-Project)
@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a data enthusiast with a passion for converting raw da
    <br>*Developing a machine learning pipeline for fraud detection, including data preprocessing, model training and evaluation.*
 
 3. **Coffee Sales Analysis Dashboard Using Power BI & SQL** | [GitRepo](https://github.com/colinlee7743/Sales-Analysis-Dashboard)
-   <br>*Creating an interactive Power BI dashboard to visualize sales trends, popular products, and business performance.*
+   <br>*Creating an interactive Power BI dashboard to visualise sales trends, popular products, and business performance.*
 
 ## 💡 Skills & Tools:
 - ✅ **Languages**: Python, SQL, DAX
