@@ -9,14 +9,17 @@ Welcome to my GitHub! I'm a data enthusiast with a passion for converting raw da
 
 ## 🔭 Projects:
 1. **Data Warehouse and Analytics Project Using SQL** | [GitRepo](https://github.com/colinlee7743/SQL-Data-Warehouse-Project)
-   <br>*Building a data warehouse with SQL, including ETL processes, data modeling, analytics and reporting.*
+   <br>*Created a data warehouse with SQL, including ETL processes, data modeling, analytics and reporting.*
      
 2. **Credit Card Fraud Detection Using Machine Learning** | [GitRepo](https://github.com/colinlee7743/Credit-Card-Fraud-Detection)
-   <br>*Developing a machine learning pipeline for fraud detection, including data preprocessing, model training and evaluation.*
+   <br>*Developed a machine learning pipeline for fraud detection, including data preprocessing, model training and evaluation.*
 
 3. **Coffee Sales Analysis Dashboard Using Power BI & SQL** | [GitRepo](https://github.com/colinlee7743/Sales-Analysis-Dashboard)
-   <br>*Creating an interactive Power BI dashboard to visualise sales trends, popular products, and business performance.*
+   <br>*Built an interactive Power BI dashboard to visualise sales trends, popular products, and business performance.*
 
+4. **Sales and Customer Analysis Dashboards Using Tableau** | [GitRepo](https://github.com/colinlee7743/Sales-and-Customer-Insights-Visualisation) | [Public](https://public.tableau.com/views/SalesCustomerDashboards_17458118049360/SalesDB?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+   <br>*Developed interactive Tableau dashboards to analyze sales performance, track customer behavior, and uncover key business trends.*
+   
 ## 💡 Skills & Tools:
 - ✅ **Languages**: Python, SQL, DAX
 - ✅ **Technologies**: Machine Learning, AI, Power BI, Jupyter Notebooks, Git
