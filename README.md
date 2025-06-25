@@ -19,12 +19,14 @@ Welcome to my GitHub! I'm a data enthusiast with a passion for converting raw da
 
 4. **Sales and Customer Analysis Dashboards Using Tableau** | [GitRepo](https://github.com/colinlee7743/Sales-and-Customer-Insights-Visualisation) | [Public](https://public.tableau.com/views/SalesCustomerDashboards_17458118049360/SalesDB?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
    <br>*Developed interactive Tableau dashboards to analyze sales performance, track customer behavior, and uncover key business trends.*
+5. **Adventure Works Sales Dashboard Using Excel** | [GitRepo](https://github.com/colinlee7743/adventure-works-sales-dashboard)
+   <br>*Created Excel analytics dashboard featuring pivot tables and data visualizations for KPI tracking and business intelligence insights.*
    
 ## 💡 Skills & Tools:
-- ✅ **Languages**: Python, SQL, DAX
-- ✅ **Technologies**: Machine Learning, AI, Power BI, Jupyter Notebooks, Git
-- ✅ **Data Processing**: Pandas, Numpy, Scikit-learn
-- ✅ **Visualization**: Power BI, Matplotlib, Seaborn, Plotly
+- ✅ **Programming & Query Languages**: Python, SQL, DAX, M (Power Query), Advanced Excel/VBA
+- ✅ **Visualization & BI Tools**: Power BI, Tableau, Matplotlib, Seaborn, Excel Dashboards
+- ✅ **Data Processing & ETL**: Pandas, NumPy, Power Query, Data Cleaning & Transformation, Missing Data Imputation
+- ✅ **Machine Learning & AI**: Scikit-learn, Feature Engineering, Model Selection & Validation, Hyperparameter Tuning, Classification & Regression Analysis
 
 <!--
 
